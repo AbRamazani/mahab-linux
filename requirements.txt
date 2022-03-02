@@ -1,0 +1,10 @@
+arabic-reshaper==2.1.3
+AwesomeTkinter==2021.11.8
+future==0.18.2
+Pillow==8.3.2
+playsound==1.3.0
+psutil==5.8.0
+pyglet==1.5.21
+python-bidi==0.4.2
+pytz==2021.1
+six==1.16.0
